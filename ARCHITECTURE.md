@@ -13,7 +13,7 @@ Components:
 1. Frontend (React)
 2. Backend API (Node.js + Express)
 3. Database (MongoDB)
-4. LLM Service (external API)
+4. LLM Service (external API).
 
 Flow:
 
