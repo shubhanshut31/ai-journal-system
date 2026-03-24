@@ -14,6 +14,7 @@ This project demonstrates:
 
 ---
 
+
 # Features
 
 ### 1. Journal Entry Creation
