@@ -1,5 +1,6 @@
 # AI Journal System
 
+
 ## Overview
 
 The **AI-Assisted Journal System** allows users to write journal entries after completing immersive nature sessions (forest, ocean, or mountain).
