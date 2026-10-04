@@ -12,6 +12,7 @@ This project demonstrates:
 * Full-stack development
 * Data aggregation and insights
 
+
 ---
 
 
